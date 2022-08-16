@@ -2,3 +2,6 @@
 - eslint
 - prettier
 - git hooks
+  - commitlint
+  - husky
+- 
